@@ -1,0 +1,62 @@
+
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 1000,
+    "currency": "BDT",
+    "duration": "1 Month",
+    "description": "Perfect for beginners starting their fitness journey.",
+    "features": [
+      "Gym equipment access",
+      "Cardio workout area",
+      "Weight training",
+      "Locker access",
+      "General workout guidance",
+      "Fitness assessment"
+    ],
+    "personalTrainer": false,
+    "popular": false,
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": 2000,
+    "currency": "BDT",
+    "duration": "1 Month",
+    "description": "Ideal for members who want better results with additional support.",
+    "features": [
+      "Everything in Basic Plan",
+      "Unlimited gym access",
+      "Group fitness classes",
+      "Personal workout plan",
+      "Trainer assistance",
+      "Monthly body composition check"
+    ],
+    "personalTrainer": false,
+    "popular": true,
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": 3500,
+    "currency": "BDT",
+    "duration": "1 Month",
+    "description": "Complete fitness experience with personalized training and premium benefits.",
+    "features": [
+      "Everything in Standard Plan",
+      "8 personal trainer sessions per month",
+      "Customized diet guidance",
+      "Personalized fitness program",
+      "Weekly progress tracking",
+      "Priority class booking",
+      "2 guest passes per month",
+      "Premium locker access"
+    ],
+    "personalTrainer": true,
+    "popular": false,
+    "status": "active"
+  }
+]
