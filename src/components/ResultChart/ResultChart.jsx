@@ -1,4 +1,4 @@
-import { BarChart, Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
+import {  Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
 const resultData= [
     {
       "id": 1,
